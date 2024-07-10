@@ -15,10 +15,3 @@ The Europe COVID-19 Statistics Dashboard is a web application built using R and 
 - **Filters**: Allows users to filter data by total cases and specific countries.
 - **Real-Time Data**: Scrapes the latest data from Worldometer to ensure up-to-date information.
 
-## How to Run
-
-To run this application locally, follow these steps:
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your_username/Europe-COVID19-Dashboard.git
