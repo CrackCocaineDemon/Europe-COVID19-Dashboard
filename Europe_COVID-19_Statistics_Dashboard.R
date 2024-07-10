@@ -1,3 +1,9 @@
+# Europe COVID-19 Statistics Dashboard
+# Author: Nick Brinkhof
+# Date: 2024-07-10
+# Description: This Shiny app displays the latest COVID-19 statistics for European countries, including total cases, total deaths, and total recoveries. The data is sourced from Worldometer.
+
+
 # Load required packages
 library(shiny)
 library(shinydashboard)
